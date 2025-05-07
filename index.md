@@ -22,7 +22,7 @@ Currently, I am involved in [AI4Debunk](https://ai4debunk.eu/), funded by the Ho
 
 Year | Institution | Cathegory | Description
 -----|-------|--------|-------
-2025-Ongoing | Institute for Research on Population and Social Policies  | Researcher | [AI4Debunk](https://ai4debunk.eu/)
+2025-Ongoing | Institute for Research on Population and Social Policies  | Researcher | working for [AI4Debunk](https://ai4debunk.eu/)
 2021-Ongoing | Università di Pisa | Ph.D. | Ph.D. student in Artificial Intelligence
 2021 | Università di Pisa | Master Program | Master in Big Data Analytics and Social Mining
 2020 | Politecnico di Milano | Master Degree | Master Thesis on user-generated data visualizations on Wikipedia and Commons
