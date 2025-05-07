@@ -6,21 +6,23 @@ layout: default
 
 <img class="profile-picture" src="foto.jpg">
 
-I am a Ph.D. Student in the Italian National Doctoral Program in Artificial Intelligence at the University of Pisa and University of Bari "Aldo Moro".
+Researcher at [IRPPS](https://www.irpps.cnr.it/en/) (CNR) working on mapping multimodal information from fake news, and Ph.D. Candidate in the Italian National Doctoral Program in Artificial Intelligence at the University of Pisa and the University of Bari "Aldo Moro".
 In 2020, I completed a Master's Degree in Communication Design at the Polytechnic University of Milan, developing my thesis at the DensityDesign research lab. After that, I obtained a one-year Master Degree in Big Data Analytics and Social Mining at the University of Pisa.
 I am a member  of the [XAI research Group](https://xai-project.eu/) and [IVU lab](http://ivu.di.uniba.it/).
 
 
 ## Research Interests
 
-My research Interests focus on Human-Centered AI, Explainable AI and Visual Analytics. 
-I am currently studying and developing Explanation User Interfaces.
+My research Interests focus on Human-Centred AI, Explainable AI, Visual Analytics and Social Informatics. 
+My Ph.D. Thesis focused on the research and development of Explanation User Interfaces. 
+Currently, I am involved in [AI4Debunk](https://ai4debunk.eu/), funded by the Horizon Europe Programme.
 
 
 ## Education, Academic and work experience
 
 Year | Institution | Cathegory | Description
 -----|-------|--------|-------
+2025-Ongoing | Institute for Research on Population and Social Policies  | Researcher | [AI4Debunk](https://ai4debunk.eu/)
 2021-Ongoing | Università di Pisa | Ph.D. | Ph.D. student in Artificial Intelligence
 2021 | Università di Pisa | Master Program | Master in Big Data Analytics and Social Mining
 2020 | Politecnico di Milano | Master Degree | Master Thesis on user-generated data visualizations on Wikipedia and Commons
@@ -49,6 +51,7 @@ Selection of some projects developed throughout the years:
 - [Infopoetry](https://infopoetry.densitydesign.org/) - An archive for some of the projects developed by the Students during the Final Synthesis Studio held by DensityDesign Lab at Politecnico di Milano, 2019
 
 ## Conferences and Talks
+- To be updated
 - [CHI2023](https://chi2023.acm.org/) - ACM CHI Conference on Human Factors in Computing Systems, in presence **As a Student Volunteer**
 - [Gender Equality and Artificial Intelligence](https://www.genderequalityai.com/), in presence **As Audience**
 - [EuroVis Conference 2022](https://www.eurovis.org/), in presence **As Audience**
@@ -61,4 +64,4 @@ Selection of some projects developed throughout the years:
 - [Lipary Summer School 2022 on Data Science: Models, Algorithms, AI and Beyond](https://complex22.liparischool.it/), Lipari - July 2022
 
 ## Teaching
-- Tutor for the Data visualization course of the [Master in Big Data Analytics and Social Mining](https://masterbigdata.it/), May-June 2023
+- Tutor for the Data visualization course of the [Master in Big Data Analytics and Social Mining](https://masterbigdata.it/),  2023-2025
