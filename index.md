@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="foto.jpg">
 
-Researcher at [IRPPS](https://www.irpps.cnr.it/en/) (CNR) working on mapping multimodal information from fake news, and Ph.D. Candidate in the Italian National Doctoral Program in Artificial Intelligence at the University of Pisa and the University of Bari "Aldo Moro".
+Researcher at [IRPPS](https://www.irpps.cnr.it/en/) (CNR) working on multimodal fake news detection, and Ph.D. Candidate in the Italian National Doctoral Program in Artificial Intelligence at the University of Pisa and the University of Bari "Aldo Moro".
 In 2020, I completed a Master's Degree in Communication Design at the Polytechnic University of Milan, developing my thesis at the DensityDesign research lab. After that, I obtained a one-year Master Degree in Big Data Analytics and Social Mining at the University of Pisa.
 I am a member  of the [XAI research Group](https://xai-project.eu/) and [IVU lab](http://ivu.di.uniba.it/).
 
