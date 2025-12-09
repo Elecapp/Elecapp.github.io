@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="foto.jpg">
 
-Researcher at [IRPPS](https://www.irpps.cnr.it/en/) (CNR) working on multimodal fake news detection, and Ph.D. Candidate in the Italian National Doctoral Program in Artificial Intelligence at the University of Pisa and the University of Bari "Aldo Moro".
+Researcher at [IRPPS](https://www.irpps.cnr.it/en/) (CNR) working on multimodal fake news detection. I received my Ph.D. in AI from the Italian National Doctoral Program (University of Pisa & University of Bari).
 In 2020, I completed a Master's Degree in Communication Design at the Polytechnic University of Milan, developing my thesis at the DensityDesign research lab. After that, I obtained a one-year Master Degree in Big Data Analytics and Social Mining at the University of Pisa.
 I am a member  of the [XAI research Group](https://xai-project.eu/) and [IVU lab](http://ivu.di.uniba.it/).
 
@@ -23,7 +23,7 @@ Currently, I am involved in [AI4Debunk](https://ai4debunk.eu/), funded by the Ho
 Year | Institution | Cathegory | Description
 -----|-------|--------|-------
 2025-Ongoing | Institute for Research on Population and Social Policies  | Researcher | working for [AI4Debunk](https://ai4debunk.eu/)
-2021-Ongoing | Università di Pisa | Ph.D. | Ph.D. student in Artificial Intelligence
+2021-2025 | Università di Pisa | Ph.D. | Ph.D. in Artificial Intelligence
 2021 | Università di Pisa | Master Program | Master in Big Data Analytics and Social Mining
 2020 | Politecnico di Milano | Master Degree | Master Thesis on user-generated data visualizations on Wikipedia and Commons
 2020 | University of Amsterdam | Summer School | Tutor during the summer school organized by the [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/SummerSchool2020) 
