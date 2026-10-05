@@ -6,15 +6,15 @@ layout: default
 
 <img class="profile-picture" src="foto.jpg">
 
-Researcher at [IRPPS](https://www.irpps.cnr.it/en/) (CNR) working on multimodal fake news detection. I received my Ph.D. in AI from the Italian National Doctoral Program (University of Pisa & University of Bari).
-In 2020, I completed a Master's Degree in Communication Design at the Polytechnic University of Milan, developing my thesis at the DensityDesign research lab. After that, I obtained a one-year Master Degree in Big Data Analytics and Social Mining at the University of Pisa.
-I am a member  of the [XAI research Group](https://xai-project.eu/) and [IVU lab](http://ivu.di.uniba.it/).
+Researcher at [IRPPS](https://www.irpps.cnr.it/en/) (CNR) working on information disorder, with a focus on multimodal detection. I received my Ph.D. in AI from the Italian National Doctoral Program (University of Pisa & University of Bari).
+In 2020, I completed a Master's Degree in Communication Design at the Polytechnic University of Milan, developing my thesis at the DensityDesign research lab. After that, I obtained a one-year Master's Degree in Big Data Analytics and Social Mining at the University of Pisa.
+I was a member of the [XAI research group](https://xai-project.eu/) and [IVU lab](http://ivu.di.uniba.it/).
 
 
 ## Research Interests
 
-My research Interests focus on Human-Centred AI, Explainable AI, Visual Analytics and Social Informatics. 
-My Ph.D. Thesis focused on the research and development of Explanation User Interfaces. 
+My research interests focus on Human-Centred AI, Explainable AI, Visual Analytics and Social Informatics.
+My Ph.D. thesis focused on the research and development of Explanation User Interfaces.
 Currently, I am involved in [AI4Debunk](https://ai4debunk.eu/), funded by the Horizon Europe Programme.
 
 
@@ -64,4 +64,4 @@ Selection of some projects developed throughout the years:
 - [Lipary Summer School 2022 on Data Science: Models, Algorithms, AI and Beyond](https://complex22.liparischool.it/), Lipari - July 2022
 
 ## Teaching
-- Tutor for the Data visualization course of the [Master in Big Data Analytics and Social Mining](https://masterbigdata.it/),  2023-2025
+- Tutor for the Data visualization course of the [Master in Big Data Analytics and Social Mining](https://masterbigdata.it/),  2023-2026
