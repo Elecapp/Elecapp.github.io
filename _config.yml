@@ -17,8 +17,6 @@ sass:
 
 nav:
  - name: "About"
-   link: "http://elecapp.github.io"
- - name: "CV"
-   link: "cv.pdf"
+   link: "https://elecapp.github.io"
  - name: "Contact"
    link: "contact"
