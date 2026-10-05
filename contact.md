@@ -3,6 +3,6 @@ layout: default
 is_contact: true
 ---
 
-* Email: [eleonora.cappuccio@phd.unipi.it](mailto:eleonora.cappuccio@phd.unipi.it)
+* Email: [eleonora.cappuccio@cnr.it](mailto:eleonora.cappuccio@cnr.it)
 
 ---
